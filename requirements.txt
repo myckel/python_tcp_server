@@ -1,0 +1,4 @@
+asyncio
+aiologger
+python-dotenv
+redis
